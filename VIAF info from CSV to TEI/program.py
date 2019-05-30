@@ -32,4 +32,9 @@ for person in root.iter('{http://www.tei-c.org/ns/1.0}person'):
 			# print(idno.attrib)
 			idno.text = str(di[nodeid])
 
-tree.write('output.xml', encoding="UTF-8", xml_declaration=True, method="xml", short_empty_elements=False)
+tree.write('output.xml', encoding="UTF-8", xml_declaration=True, method="xml")
+
+with open('output.xml', 'r') as fread:
+	data = fread.read().replace(' />', '/>')
+	with open('output_r.xml', 'w+') as fwrite:
+		fwrite.write(data)
