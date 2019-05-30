@@ -1,0 +1,785 @@
+﻿NodeID 人物编号,Focused_or_Related 核心人物/相关人物,Chinese_Name 汉字人物姓名,﻿person ID,chinese name,hanyupinyin_ corrected,year of birth,year of death,出生地 (1st column is self-designated without referencing sources),,,birth - province,birth - level2,birth - level 3,birth - level 4,birth - level 5
+0,Focused,李大傻,C00594,李大傻,li da sha,1913,1989,新加坡 ,,,广东,东莞,,,
+1,Related,孙中山
+2,Related,蔡志民,C00259,蔡志民,cai zhi min,1900,1980,,,,广东,丰顺,,,
+3,Related,伍伯胜,C00909,伍伯胜,wu bo sheng,,,,,,广东,台山,,,
+4,Focused,伍连德,C00191,伍连德,wu lian de,1879,1960,马来西亚 ,槟榔屿  ,,广东,台山,,,
+5,Related,陈梦桃,C00318,陈梦桃,chen meng tao,,,,,,广东,嘉应,,,
+6,Related,徐统雄,C00200,徐统雄,xu tong xiong,约1876,1937,,,,广东,大埔,,,
+7,Related,陈瑞麟,C00335,陈瑞麟,chen rui ling,1892,1962,,,,广东,梅县,,,
+8,Focused,杨缵文,C00208,杨缵文,yang zuan wen,1881,1967,,,,广东,潮安,,,
+9,Related,林忠国,C00719,林忠国,lin zhong guo,1902,1938,,,,广东,澄海,,,
+10,Focused,林义顺,C01445,林义顺,lin yi shun ,,,,,,广东,澄海,,,
+11,Related,陈烈三,C00312,陈烈三,chen lie san,? ,1957,,,,广东,琼州,,,
+12,Related,符和谦,C00409,符和谦,fu he qian,1900,1942,,,,广东,琼州（海南),,,
+13,Related,林耀翔
+14,Focused,张永福,C01128,张永福,zhang yong fu,1871,1957,,,,广东,饶平,,,
+15,Related,胡愈之,C00484,胡愈之,hu yu zhi,1896,1986,,,,浙江,上虞,,,
+16,Related,池传楹,C00391,池传楹,chi chuan ying,1900,1976,,,,浙江,平阳,,,
+17,Related,陈岳书,C00373,陈岳书,chen yue shui,1900,1971,中国,,,浙江,苍南,,,
+18,Related,涂开舆,C00866,涂开舆,tu kai yu,,,,,,湖南,,,,
+19,Related,马徽祥
+20,Focused,李光前,C00132,李光前,li guang qian,1893,1967,,,,福建,南安,,,
+21,Related,李玉荣,C00632,李玉荣,li yu rong,1897,1965,,,,福建,福安,,,
+22,Related,李成义
+23,Related,李成伟
+24,Related,刘牡丹,C00739,刘牡丹,liu mu dan,1902,1983,,,,福建,南安,,,
+25,Focused,周献瑞,C00224,周献瑞,zhou xian rui,1887,1964,中国,厦门,,福建,南安,,,
+26,Focused,黄奕欢,C00540,黄奕欢,huang yi huan,1908,1985,中国,,,福建,南安,,,
+27,Related,高云览,C00423,高云览,gao yun lan,1910,1956,中国,厦门,,福建,厦门,,,
+28,Focused,何葆仁,C00105,何葆仁,he bao ren,1895,1978,,,,福建,厦门,,,
+29,Related,陈森茂,C00078,陈森茂,chen sen mao,1902,1941,,,,福建,厦门,,,
+30,Related,王锦良,C00182,王锦良,wang jin liang,——,,,,,福建,同安,,,
+31,Related,叶清沙,C00209,叶清沙,ye qing sha,——,,中国,,,福建,同安,,,
+32,Focused,陈嘉庚,C00068,陈嘉庚,chen jia geng,1874,1961,中国,集美,,福建,同安,,,
+33,Focused,陈六使,C00314,陈六使,chen liu shi,1897,1972,中国,厦门,集美,福建,同安,,,
+34,Related,陈敬贤,C00302,陈敬贤,chen jing xian,1888,1936,,,,福建,同安,,,
+35,Related,陈笃山
+36,Related,陈赐曲,C00061,陈赐曲,chen ci qu,1901,1988,,,,福建,同安,,,
+37,Related,陈共存
+38,Related,陈丽好
+39,Related,陈万安,C00082,陈万安,chen wan an,1894,1946,,,,福建,同安,,,
+40,Related,叶玉堆
+41,Related,林汉河,C00669,林汉河,lin han he,1894, ?,,,,,,,,
+42,Related,陈爱礼
+43,Related,吴瑞甫,C00928,吴瑞甫,wu rui fu,1871,1952,,,,福建,同安,,,
+44,Related,陈杞柏
+45,Focused,陈延谦,C00360,陈延谦,chen yan qian,1881,1943,,,,福建,同安,,,
+46,Related,蒋骥甫,C00127,蒋骥甫,jiang ji fu,? ,1944,中国,,,福建,同安,,,
+47,Related,赖琼瑶,C00574,赖琼瑶,lai qiong yao,? ,1976,中国 ,,,福建,安海,,,
+48,Related,庄希泉,C01195,庄希泉,zhuang xi quan,1888,1988,中国,,,福建,安溪,,,
+49,Related,林庆年,C00154,林庆年,lin qing nian,1893,1968,,,,福建,安溪,,,
+50,Focused,胡少炎,C00113,胡少炎,hu shao yan,约1895,1983,中国,金门,,福建,永定,,,
+51,Focused,林惠祥,C00674,林惠祥,lin hui xiang,1901,1958,,,,福建,晋江,,,
+52,Focused,陈维龙,C00349,陈维龙,chen wei long,1897,1988,,,,福建,永春,,,
+53,Focused,林邦彦,C00142,林邦彦,lin bang yan,? ,1986,中国,,,福建,永春,,,
+54,Related,史联对,C00174,史联对,shi lian dui,1910,1986,,,,福建,泉州,,,
+55,Focused,陈育崧,C00089,陈育崧,chen yu song,1900,1984,马来西亚 ,槟城,,福建,海澄,,,
+56,Focused,林文庆,C03187,林文庆,lin wen qing ,1869,1957,新加坡,,,福建,海澄,,,
+57,Focused,陈武烈,C01296,陈武烈,chen wu lie ,,,星洲　,,,福建,海澄,,,
+58,Related,杨骚,C01041,杨骚,yang shao,1901,1957,,,,福建,漳州,,,
+59,Related,吴应隆
+60,Focused,吴寿珍,C00932,吴寿珍,wu shou zhen ,1854,1909,,,,福建,诏安,,,
+61,Related,薛永黍,C01016,薛永黍,xue yong shu,1889,1951,中国,,,福建,金门,,,
+62,Related,洪丝丝,C00461,洪丝丝,hong si si,1907,1989,,,,福建,金门,,,
+63,Related,王源兴,C00901,王源兴,wang yuan xing,1910,1974,,,,福建,龙岩,,,
+64,Focused,侯西反,C00112,侯西反,hou xi fan,1883,1944,,,,福建,南安,,,
+65,Related,李约瑟
+66,Focused,白清泉
+67,Focused,蔡金吉,C00243,蔡金吉,cai jin ji,1859,1907,,,,福建,,,,
+68,Focused,蔡金钟
+69,Focused,曹亚志,C00262,曹亚志,cao ya zhi,1782,1830,,,,广东,台山,,,
+70,Focused,陈成宝,C00269,陈成宝,chen cheng bao,1830,1879,马来亚,霹雳,,广东,潮安,,,
+71,Focused,陈楚楠,C00271,陈楚楠,chen chu nan,1884,1971,,,,福建,厦门,,,
+72,Focused,陈笃生,C01216,陈笃生,chen du sheng ,,,,,,,,,,
+73,Focused,陈恭锡,C00027,陈恭锡,chen gong xi,1850,1909,马来西亚 ,马六甲,,福建,海澄,,,
+74,Focused,陈金声,C00028,陈金声,chen jin sheng,1805,1864,马来西亚 ,马六甲,,福建,永春,,,
+75,Focused,陈金钟,C01206,陈金钟,chen jin zhong ,,,,,,福建,海澄,,,
+76,Focused,陈明水,C00030,陈明水,chen ming shui,1828,1884,,,,福建,永春,,,
+77,Focused,陈齐贤,C01218,陈齐贤,chen qi xian ,1871,1916,,,,福建,海澄,,,
+78,Focused,陈人浩,C00331,陈人浩,chen ren hao,1908,1976,,,,福建,福州,,,
+79,Focused,陈若锦,C00032,陈若锦,chen ruo jin,1859,1917,,,,福建,永春,,,
+80,Focused,陈诗武,C00338,陈诗武,chen shi wu,1832,1883,,,,,,,,
+81,Focused,陈思敏,C00344,陈思敏,chen si min,1882,1939,,,,福建,永春,,,
+82,Focused,陈送,C00346,陈送,chen song,1762,1835,中国,广州,,广东,广州,,,
+83,Focused,陈泰,C00347,陈泰,chen tai,1839,1898,中国,,,福建,金门,,,
+84,Focused,陈旭年,C00358,陈旭年,chen xu nian,1827,1902,,,,广东,潮安,,,
+85,Focused,陈延反
+86,Focused,陈仰安,C00361,陈仰安,chen yang an,1940,1976,,,,广东,潮安,,,
+87,Focused,陈永锡
+88,Focused,陈永裕
+89,Focused,陈振传,C00008,陈振传,chen zhen chuan ,1908,2005,新加坡,,,,,,,
+90,Focused,陈之初,C00384,陈之初,chen zhi cu,1911,1980,,,,广东,潮州,,,
+91,Focused,陈宗瑞,C00389,陈宗瑞,chen zong rui,1910,1985,,,,广东,潮州,,,
+92,Focused,戴河水,C00395,戴河水,dai he shui,1834,1903,,,,福建,漳浦,,,
+93,Focused,丁马成
+94,Focused,杜进才,C00009,杜进才,du jin cai ,1921,2012,马来西亚 ,霹雳,,,,,,
+95,Focused,傅无闷,C00412,傅无闷,fu wu men,1892,1965,,,,福建,南安,,,
+96,Focused,符致逢,C00414,符致逢,fu zhi feng,? ,1975,,,,广东,文昌,,,
+97,Focused,高德根,C00419,高德根,gao de gen,1911,1966,,,,福建,龙溪,,,
+98,Focused,郭芳枫
+99,Focused,郭可模,C00100,郭可模,guo ke mo,1890,1963,中国,,,福建,福清,,,
+100,Focused,郭珊瑚,C00102,郭珊瑚,guo shan hu,1898, ?,,,,福建,龙溪,,,
+101,Focused,郭新,C00103,郭新,guo xin,1886,1955,,,,海南,文昌,,,
+102,Focused,韩槐准,C00435,韩槐准,han huai zhun,1892,1970,,,,广东,文昌,,,
+103,Focused,韩瑞生,C00436,韩瑞生,han rui sheng,1916,1983,,,,广东,揭阳,,,
+104,Related,何思明
+105,Focused,洪恭兰
+106,Focused,洪锦池,C00454,洪锦池,hong jing chi,1838,1901,,,,福建,,,,
+107,Focused,洪锦棠,C00456,洪锦棠,hong jing tang,1906,1983,新加坡,,,福建,南安,,,
+108,Focused,胡金钟
+109,Focused,胡文豹,C00114,胡文豹,hu wen bao,1886,1944,缅甸,仰光,,福建,永定,,,
+110,Focused,胡文虎,C00115,胡文虎,hu wen hu,1884,1954,缅甸,仰光,,福建,永定,,,
+111,Focused,胡亚基,C00481,胡亚基,hu ya ji,1816,1880,,,,广东,广州,,,
+112,Focused,黄葆芳,C00490,黄葆芳,huang bao fang,1912,1989,,,,福建,福安,,,
+113,Focused,黄笃修,C00496,黄笃修,huang du xiu,1914,1978,,,,福建,厦门,,,
+114,Focused,黄桂楠
+115,Focused,黄金辉
+116,Focused,黄麟根,C00505,黄麟根,huang lin gen,1931,1983,马来亚,槟榔屿,,广东,,,,
+117,Focused,黄曼士,C00507,黄曼士,huang man shi,1890,1963,福州,,,福建,福州,,,
+118,Focused,黄乃裳,C00510,黄乃裳,huang nai shang,1849,1924,,,,福建,闽清,,,
+119,Related,黄瑞朝,C00513,黄瑞朝,huang rui chao,1880,1954,新加坡,,,新加,坡出生,,,
+120,Focused,黄树芬,C00121,黄树芬,huang shu fen,1897,1979,马来亚,柔佛,,广东,台山,,,
+121,Focused,黄亚福,C00539,黄亚福,huang ya fu,1837,1918,中国,,,广东,台山,,,
+122,Focused,黄仲涵,C00035,黄仲涵,huang zhong han,1866,1924,荷属东印度,三宝垅,,福建,同安,,,
+123,Focused,黄宗仁
+124,Focused,柯进来,C00566,柯进来,ke jin lai,1893,1990,中国,,,福建,安溪,,,
+125,Focused,柯隆美
+126,Focused,孔天增,C00570,孔天增,kong tian zeng,1879,1915,马来西亚 ,马六甲 ,,——,,,,
+127,Focused,柯玉芝,C00013,柯玉芝,ke yu zhi ,1920,2010,新加坡,,, ,,,,
+128,Focused,李光耀,C00014,李光耀,li guang yao ,1923,2015,新加坡,,,广东省 , 梅州市 , 大埔县 , 高陂镇 ,党溪乡
+129,Focused,李金塔,C03504,李金塔,li jin ta ,,,,,,福建,南安,,,
+130,Focused,李俊承,C04063,李俊承,li jun4 cheng ,,,,,,,,,,
+131,Focused,李浚源,C00036,李浚源,li jun yuan,1868,1924,,,,福建,永春,,,
+132,Focused,李庆杰,C00609,李庆杰,li qing jie,1851,1917,马来西亚 ,马六甲 ,,,,,,
+133,Focused,李庆炎,C00611,李庆炎,li qing yan,1842,1888,,,,福建,南安,,,
+134,Focused,李清渊,C00037,李清渊,li qing yuan,1841,1911,马来西亚 ,马六甲,,福建,永春,,,
+135,Focused,李绍茂,C00619,李绍茂,li shao mao,1915,1989,,,,广东,潮安,,,
+136,Focused,李伟南,C00624,李伟南,li wei nan,1880,1964,,,,广东,澄海,,,
+137,Focused,李云龙,C00634,李云龙,li yun long,1879,1942,新加坡 ,,,广东,大埔,,,
+138,Focused,李振殿,C00138,李振殿,li zhen dian,1875,1965,,,,福建,海澄,,,
+139,Focused,李钟珏,C00636,李钟珏,li zhong jue,1854,1927,中国,上海,宝山县高桥镇,江苏,昆山,,,
+140,Focused,李珠娘,C00038,李珠娘,li zhu niang,1895,1947,,,,广东,大埔,,,
+141,Focused,连士升,C00637,连士升,lian shi sheng,1907,1973,,,,福建,福安,,,
+142,Focused,连瀛洲,C03959,连瀛洲,lian ying zhou ,,,,,,广东,潮阳,,,
+143,Focused,梁庆经
+144,Focused,梁润之,C00641,梁润之,liang run zhi,1895,1970,,,,广东,顺德,,,
+145,Focused,梁宙,C00646,梁宙,liang zhou,1884,1975,,,,福建,南安,,,
+146,Focused,廖正兴,C00652,廖正兴,liao zheng xing,1874,1934,,,,广东,潮安,,,
+147,Focused,林秉懋,C00654,林秉懋,lin bing mao,1884,1960,,,,福建,龙溪,,,
+148,Focused,林秉祥,C03175,林秉祥,lin bing xiang ,,,,,,,,,,
+149,Focused,林晨
+150,Focused,林衡南
+151,Focused,林继民
+152,Focused,林金山,C00015,林金山,lin jin shan ,1916,2006,新加坡,,, ,,,,
+153,Focused,林浪新,C00685,林浪新,lin lang xin,1916,1987,马来西亚 ,砂拉越,古晋,福建,,,,
+154,Related,陈登榜
+155,Focused,林谋盛,C00688,林谋盛,lin mou sheng,1909,1944,中国,,,福建,南安,,,
+156,Focused,林师万,C00697,林师万,lin shi wan,1886,1953,,,,广东,大埔,,,
+157,Focused,林树彦,C03506,林树彦,lin shu yan ,,,,,,福建,安溪,,,
+158,Focused,林推迁,C00158,林推迁,lin tui qian,1868,1923,中国,福建,海澄 ,福建,海澄,,,
+159,Focused,林学大,C00707,林学大,lin xue da,1893,1963,,,,福建,厦门,,,
+160,Focused,林有福,C00042,林有福,lin you fu,1914,1984,新加坡,,,,,,,
+161,Focused,林忠邦,C00163,林忠邦,lin zhong bang,1904,1956,新加坡,,,广东,澄海,,,
+162,Focused,刘金榜,C00734,刘金榜,liu jin bang,1838,1909,中国,福建,南靖,福建,南靖,,,
+163,Focused,刘抗
+164,Focused,刘仁心
+165,Focused,陆寅杰,C00761,陆寅杰,lu yin jie,1849,1931,,,,广东,广州,,,
+166,Focused,陆佑,C00762,陆佑,lu you,1846,1917,,,,广东,鹤山,,,
+167,Focused,陆运涛,C00763,陆运涛,lu yun tao,1913,1964,马来西亚,吉隆坡,,广东,鹤山,,,
+168,Related,莫履瑞,C00781,莫履瑞,mo lv rui,1914,1977,,,,广东,琼海,,,
+169,Focused,欧阳奇,C00783,欧阳奇,ou yang qi,1897,1988,中国,,,广东,澄海,,,
+170,Focused,潘受
+171,Focused,潘醒农,C00787,潘醒农,pan xing nong,1904,1987,中国,,,广东,潮安,,,
+172,Focused,邱德拔
+173,Focused,邱菽园,C00801,邱菽园,qiu shu yuan,1874,1941,,,,福建,海澄,,,
+174,Focused,邱新民
+175,Focused,邱正忠,C00806,邱正忠,qiu zheng zhong,1820,1896,,,,福建,海澄,,,
+176,Focused,邱雁宾,C00804,邱雁宾,qiu yan bing,1863,1923,新加坡,,,广东,南顺,,,
+177,Focused,邵仁枚,C00830,邵仁枚,shao ren mei,1901,1984,中国,,,浙江,镇海,,,
+178,Focused,佘连城,C00043,佘连城,she lian cheng,1850,1925,,,,广东,澄海,,,
+179,Focused,佘有进,C00044,佘有进,she you jin,1805,1883,中国,,,广东,澄海,,,
+180,Focused,施香沱,C00836,施香沱,shi xiang tuo,1906,1990,中国,福建,龙溪,福建,龙溪,,,
+181,Focused,宋佛俭
+182,Focused,宋旺相,C00045,宋旺相,song wang xiang,1871,1941,新加坡,,,福建,南靖,,,
+183,Focused,宋旺裕,C00843,宋旺裕,song wang yu,1877,1962,,,,福建,南靖,,,
+184,Focused,孙炳炎,C03491,孙炳炎,sun bing yan ,,,,,,,,,,
+185,Focused,孙崇瑜,C01255,孙崇瑜,sun chong yu ,,,,,,福建,闽侯,,,
+186,Focused,王邦杰,C00179,王邦杰,wang bang jie,1856,1930,中国,,,广东,潮安,,,
+187,Related,王财福
+188,Focused,王德霖,C00874,王德霖,wang de lin,1896,1912,,,,福建,南安,,,
+189,Focused,王鼎昌
+190,Focused,王九河,C00882,王九河,wang jiu he,?,1889,马来西亚,马六甲,,福建,南安,,,
+191,Focused,王平福,C00884,王平福,wang ping fu,?,1968,,,,福建,,,,
+192,Focused,王三龙,C00888,王三龙,wang san long,1857,1918,新加坡,,,福建,,,,
+193,Focused,王绍经,C00185,王绍经,wang shao jing,1860,1939,,,,广东,琼海,,,
+194,Focused,王文达,C00046,王文达,wang wen da,1888,1937,新加坡,,,福建,,,,
+195,Focused,王有海,C00899,王有海,wang you hai,1830,1889,新加坡,,,福建,同安,,,
+196,Focused,吴鸿业
+197,Focused,吴来喜,C00922,吴来喜,wu lai xi,1881,? ,,,,,,,,
+198,Focused,吴庆瑞,C00019,吴庆瑞,wu qing rui ,1918,2010,马来西亚 ,马六甲,,福建省 ,漳州,,,
+199,Focused,吴胜鹏,C00931,吴胜鹏,wu sheng peng,1873,1951,,,,广东,恩平,,,
+200,Focused,吴水阁
+201,Focused,吴秀水,C00937,吴秀水,wu xiu shui,? ,1892,中国,,,福建,诏安,,,
+202,Focused,吴在炎
+203,Focused,萧保龄,C01811,萧保龄,xiao bao ling ,,,,,,福建,,,,
+204,Focused,谢安祥,C00950,谢安祥,xie an xiang,1832,1892,马来西亚,马六甲,,福建,,,,
+205,Focused,谢荣西,C00196,谢荣西,xie rong xi,1881,1942,,,,福建,惠安,,,
+206,Focused,徐长怀,C00973,徐长怀,xu chang huai,? ,1861,,,,福建,,,,
+207,Focused,许宏博
+208,Focused,许甦吾,C00996,许甦吾,xu su wu,1908,1988,,,,福建,惠安,,,
+209,Focused,许云樵,C01007,许云樵,xu yun qiao,1905,1981,中国,江苏,吴县,江苏,无锡,,,
+210,Focused,薛佛记,C01010,薛佛记,xue fo ji,1793,1847,马来西亚,马六甲,,福建,东山,,,
+211,Focused,薛茂元,C01011,薛茂元,xue mao yuan,? ,1879,马来西亚,马六甲,,福建,东山,,,
+212,Focused,薛荣樾,C01014,薛荣樾,xue rong yue,1826,1884,马来西亚,马六甲,,福建,东山,,,
+213,Focused,薛文仲,C01015,薛文仲,xue wen zhong,约1807,1888,马来西亚,马六甲,,福建,漳州,,,
+214,Focused,薛有礼,C00048,薛有礼,xue you li,1851,1906,,,,福建,东山,,,
+215,Focused,颜永成,C01220,颜永成,yan yong cheng ,,,,,,福建,海澄,,,
+216,Focused,杨瑞初,C01024,杨瑞初,yang duan cu,1909,1984,中国,,,山西,,,,
+217,Focused,杨天恩
+218,Focused,姚紫,C01052,姚紫,yao zi,1924,1982,,,,福建,福州,,,
+219,Focused,叶畅芬,C01054,叶畅芬,ye chang fen,1903,1989,香港,,,广东,东莞,,,
+220,Focused,叶季允,C01057,叶季允,ye ji yun,1859,1921,,,,安徽,,,,
+221,Focused,叶平玉,C01059,叶平玉,ye ping yu,1901,1979,马来西亚,柔佛,和平港,广东,普宁,,,
+222,Focused,叶之威,C01061,叶之威,ye zhi wei,1915,1981,,,,福建,福州,,,
+223,Focused,殷碧霞,C01063,殷碧霞,yin bi xia,1884,1972,中国,厦门,鼓浪屿,江苏,常熟,,,
+224,Focused,殷雪村,C00211,殷雪村,yin xue chun,1876,1958,中国,厦门,鼓浪屿,江苏,常熟,,,
+225,Focused,余东璇,C00023,余东璇,yu dong xuan ,1877,1941,马来西亚 ,槟榔屿,,广东省 ,佛山,,,
+226,Focused,云英杰,C01069,云英杰,yun ying jie,1834,1919,,,,——,,,,
+227,Focused,曾锦文,C00051,曾锦文,zeng jing wen,1851,1920,马来西亚 ,槟城,,福建,,,,
+228,Focused,章芳琳,C00052,章芳琳,zhang fang lin,1825,1893,新加坡,,,福建,海澄,,,
+229,Focused,张汉三,C01102,张汉三,zhang han san,1897,1965,,,,广东,潮阳,,,
+230,Focused,张礼千,C01110,张礼千,zhang li qian,1897,1954,,,,江苏,南汇,,,
+231,Focused,张梦生,C01111,张梦生,zhang meng sheng,1899,1977,,,,广东,大埔,,,
+232,Focused,张汝器,C01119,张汝器,zhang ru qi,1904,1942,,,,广东,潮安,,,
+233,Focused,赵玉山
+234,Focused,郑古悦,C00220,郑古悦,zheng gu yue,1880,1949,,,,福建,金门,,,
+235,Focused,郑章远,C01148,郑章远,zheng szhang yuan,1926,1984,,,,福建,南安,,,
+236,Focused,周如切,C00054,周如切,zhou ru qie,? ,1926,,,,,,,,
+237,Focused,周润亨
+238,Focused,周文礼
+239,Focused,周星衢,C00024,周星衢,zhou xing qu ,1905,1986,中国,上海,,浙江省 ,平湖县,,,
+240,Focused,周镇豪,C01174,周镇豪,zhou zhen hao,1913,1980,中国,,,广东,澄海,,,
+241,Focused,周子敬
+242,Focused,庄庆利,C01194,庄庆利,zhuang qing li,1859,1934,马来西亚,马六甲,,福建,,,,
+243,Focused,庄竹林,C01197,庄竹林,zhuang zhu lin,1900,1973,,,,福建,惠安,,,
+244,Focused,左秉隆,C01200,左秉隆,zuo bing long,1850,1924,,,,辽宁,沈阳,,,
+245,Focused,佘松城,C00821,佘松城,she song cheng,? , 1910年代,,,,广东,澄海,,,
+246,Related,林长华,C00658,林长华,lin chang hua,,,,,,,,,,
+247,Related,谢佛添,C00955,谢佛添,xie fo tian,,,,,,,,,,
+248,Related,李天来,C02007,李天来,li tian lai ,,,,,,福建,晋江,,,
+249,Related,蔡开云,C00257,蔡开云,cai yun kai,? ,1865,马来西亚 ,马六甲,,福建,,,,
+250,Related,蔡润贤,C00252,蔡润贤,cai run xian,,,,,,福建,,,,
+251,Related,梁亚胜,C00644,梁亚胜,liang ya sheng,,,,,,广东,中山,,,
+252,Related,莱佛士
+253,Related,曹家馆当事人
+254,Related,陈景华,C00298,陈景华,chen jing hua,,,,,,广东,潮安,,,
+255,Related,阮文发,C00811,阮文发,ruan wen fa,?,1883,马来西亚 ,马六甲 ,,,,,,
+256,Related,李清池,C00607,李清池,li qing chi,1833,1901,马来西亚 ,马六甲 ,,福建,永春,,,
+257,Related,陈亚汉
+258,Related,陈纯道,C00272,陈纯道,chen chun dao ,1854,1891,,,,福建,海澄,,,
+259,Related,蔡春茂
+260,Related,陈景瑞,C00299,陈景瑞,chen jing rui,,,,,,广东,潮安,,,
+261,Related,张礼,C01109,张礼,zhang li,1833,1899,新加坡,,,广东,饶平,,,
+262,Related,郭爱文,C00430,郭爱文,guo ai wen,? ,1892,,,,,,,,
+263,Related,蔡茂春,C00247,蔡茂春,cai mao chun,约1819,1879,,,,广东,潮阳,,,
+264,Related,沈联芳,C00832,沈联芳,shen lian fang,1850,1921,,,,广东,潮安,,,
+265,Related,陈连水
+266,Related,陈成章
+267,Related,陈连南
+268,Related,康有为
+269,Related,梁启超
+270,Related,吴世荣,C01236,吴世荣,wu shi rong ,1875,1945,,,,福建,海澄,,,
+271,Related,留鸿石,C00166,留鸿石,liu hong shi,? ,1922,,,,福建,,,,
+272,Related,叶敦仁
+273,Related,谢有祥
+274,Related,洪福彰,C01396,洪福彰,hong fu zhang ,,,,,,福建,海澄,,,
+275,Related,王锦威,C00880,王锦威,wang jin wei ,1850,1913,,,,福建,南安,,,
+276,Related,许山兴,C00993,许山兴,xu shan xing,? ,1929,,,,福建,,,,
+277,Related,陈霞娘
+278,Related,杨佛生,C01026,杨佛生,yang fo sheng,,,,,,福建,,,,
+279,Related,陈有郎
+280,Related,陈季騧
+281,Related,陈季随,C00296,陈季随,chen ji sui,1880,1937,,,,福建,海澄,,,
+282,Related,陈瑞林,C00334,陈瑞林,chen rui lin,,,,,,福建,海澄,,,
+283,Related,陈德源
+284,Related,陈维贤,C00350,陈维贤,chen wei xian,,,,,,福建,海澄,,,
+285,Related,张炎,C00218,张炎,zhang yan,,,中国,,,福建,晋江,,,
+286,Related,林生财,C00155,林生财,lin sheng cai,,,,,,,,,,
+287,Related,黄木生,C00509,黄木生,huang mu sheng,,,,,,,,,,
+288,Related,黄文德,C00526,黄文德,huang wen de,1850,1888,,,,,,,,
+289,Related,黄金炎,C00502,黄金炎,huang jin yan,1855,1914,新加坡,,,广东,潮安,,,
+290,Related,黄秉盛,C00492,黄秉盛,huang bing sheng,1905,1952,,,,广东,台山,,,
+291,Related,陈六娘
+292,Related,陈宝莉
+293,Related,符气浩,C00096,符气浩,fu qi hao,? ,1931,,,,广东,文昌,,,
+294,Related,曾举荐,C01076,曾举荐,zeng ju jian,,,,,,,,,,
+295,Related,谢佛珊,C00954,谢佛珊,xie fo shan,1864,1925,,,,,,,,
+296,Related,陈丰明
+297,Related,詹振成,C01093,詹振成,zhan zhen cheng,? ,1844,,,,,,,,
+298,Related,刘清泉,C00742,刘清泉,liu qing quan,,,,,,,,,,
+299,Related,曾全福,C01081,曾全福,zeng quan fu,1849,1919,,,,广东,,,,
+300,Related,邱文林,C00802,邱文林,qiu wen lin,,,,,,,,,,
+301,Related,阮添寿
+302,Related,许山治,C00994,许山治,xu shan zhi,,,,,,福建,,,,
+303,Related,李庆庸,C00612,李庆庸,li qing yong,,,,,,,,,,
+304,Related,佘石城,C00818,佘石城,she shi cheng,? ,1885,,,,广东,澄海,,,
+305,Related,陈德娘,C00025,陈德娘,chen de niang,1877,1978,,,,福建,海澄,,,
+306,Related,陈俊睦,C00306,陈俊睦,chen jun mu,1824,1880,,,,福建,海澄,,,
+307,Related,陈俊善
+308,Related,陈恭三,C00282,陈恭三,chen gong san,1861, ?,马六甲,,,福建,海澄,,,
+309,Related,陈恭敬,C00281,陈恭敬,chen gong jing,? ,1915,,,,福建,海澄,,,
+310,Related,林光瑗,C00667,林光瑗,lin guang yuan,? ,1869,马来西亚 ,马六甲,,,,,,
+311,Related,林长水,C00659,林长水,lin chang shui,? ,1881,,,,,,,,
+312,Related,林永庆,C00711,林永庆,lin yong qing,1837,1892,,,,福建,,,,
+313,Related,陈明岩,C00319,陈明岩,chen ming yan,1832,1893,,,,福建,永春,,,
+314,Related,杨如陵,C01039,杨如陵,yang ru ling,1906, ? ,,,,广东,大埔,,,
+315,Related,林景烈
+316,Related,陈玉合,C02393,陈玉合,chen yu he ,,,,,,广东,普宁,,,
+317,Related,杨鸿泰
+318,Related,陈若铨
+319,Related,陈振盛,C00379,陈振盛,chen zhen sheng,? ,1882,,,,,,,,
+320,Related,洪俊成,C00457,洪俊成,hong jun cheng,1805,1852,马来西亚 ,马六甲,,福建,,,,
+321,Related,洪捷发,C00453,洪捷发,hong jie fa,,,,,,,,,,
+322,Related,章三潮,C01120,章三潮,zhang san chao ,,,,,,福建,海澄,,,
+323,Related,沈阿溪
+324,Related,黄宗山
+325,Related,黄祥达,C00533,黄祥达,huang xiang da,1875,1901,,,,,,,,
+326,Related,郑玉瓞,C01151,郑玉瓞,zheng yu die,1832,1893,马来西亚,马六甲,,福建,漳州,,,
+327,Related,陈明远,C00320,陈明远,chen ming yuan,1851,1891,,,,,,,,
+328,Related,陈庆照,C00327,陈庆照,chen qing zhao,,,,,,,,,,
+329,Related,泰王
+330,Related,陈德道
+331,Related,陈季良
+332,Related,龚光传,C00424,龚光传,gong guang chuan,1790,1854,,,,福建,漳州,,,
+333,Related,陈静雅,C00303,陈静雅,chen jing ya,,,,,,福建,海澄,,,
+334,Related,龚菽惠,C00425,龚菽惠,gong shu hui,1839,1888,,,,福建,漳州,,,
+335,Related,蔡绵溪,C00244,蔡绵溪,cai jing xi,1836,1903,马来西亚 ,马六甲,,福建,海澄,,,
+336,Related,陈文确,C00085,陈文确,chen wen que,1886,1966,,,,福建,同安,,,
+337,Related,谢源英,C00966,谢源英,xie yuan ying,? ,1911,,,,,,,,
+338,Related,陈思源,C00345,陈思源,chen si yuan,,,,,,福建,永春,,,
+339,Related,李庆烈
+340,Related,李攀福,C00604,李攀福,li pan fu,,,,,,,,,,
+341,Related,陈仙精,C00357,陈仙精,chen xian jing,,,,,,,,,,
+342,Related,曾江水,C02512,曾江水,zeng jiang shui,1875,,马来西亚,马六甲,,福建,思明,,,
+343,Related,陈温祥
+344,Related,陈达贤
+345,Related,刘隆镇,C00737,刘隆镇,liu long zhen,,,,,,广东,潮安,,,
+346,Related,张善庆,C00215,张善庆,zhang shan qing,1855,1916,中国,,,福建,南靖,,,
+347,Related,刘溪士,C00747,刘溪士,liu xi shi,1881, ?,新加坡,,,广东,大埔,,,
+348,Related,杨本盛,C01022,杨本盛,yang ben sheng,1859,1906,,,,福建,金门,,,
+349,Related,陈正端,C00382,陈正端,chen zheng duan,1864,1902,,,,,,,,
+350,Related,陈合盛,C00290,陈合盛,chen he sheng,,,,,,新加坡,,,,
+351,Related,阿瑟•杨格
+352,Related,张贵添,C01101,张贵添,zhang gui tian,,,,,,,,,,
+353,Related,罗窗绮,C00765,罗窗绮,luo chuang qi,1881,1914,,,,,,,,
+354,Related,林德为
+355,Related,徐桂梦,C00982,徐桂梦,xu gui meng,约1849,1906,马来西亚,马六甲,,福建,漳州,,,
+356,Related,罗丰禄
+357,Related,蔡仰泰,C00256,蔡仰泰,cai yang tai,1865,1911,马来西亚 ,马六甲,,福建,,,,
+358,Related,宾威廉
+359,Related,库克姑娘
+360,Related,基斯柏里
+361,Related,格兰特
+362,Related,陈德顺
+363,Related,陈有为
+364,Related,陈有余
+365,Related,陈玉英
+366,Related,宋振荣,C00844,宋振荣,song zhen rong,,,,,,,,,,
+367,Related,赵恭喜,C01136,赵恭喜,zhao gong xi,1872,1942,,,,广东,兴宁,,,
+368,Related,陈丙荣,C00266,陈丙荣,chen bing rong,1878,1955,,,,福建,,,,
+369,Related,陈秋金,C00330,陈秋金,chen qiu jin,1883, ?,,,,,,,,
+370,Related,郑文德
+371,Focused,陈谦福,C00321,陈谦福,chen qian fu,1862,1922,,,,,,,,
+372,Related,李荣元,C00616,李荣元,li rong yuan ,,,,,,,,,,
+373,Related,陈振
+374,Related,陈浩盛,C00288,陈浩盛,chen hao sheng,? ,1823,,,,广东,潮州,,,
+375,Related,张友
+376,Related,黄文元
+377,Related,陈祀柏,C00342,陈祀柏,chen si bo,? ,1909,,,,福建,同安,,,
+378,Related,陈周锦,C00386,陈周锦,chen zhou jin,,,,,,,,,,
+379,Related,陈合隆,C00289,陈合隆,chen he long,,,,,,,,,,
+380,Related,李碧云,C00591,李碧云,li bi yun,,,,,,,,,,
+381,Related,佘应瑾
+382,Related,陈佛元,C00278,陈佛元,chen fo yuan,,,,,,,,,,
+383,Related,陈昭彬
+384,Related,潘春阳,C00784,潘春阳,pan chun yang,1850,1912,,,,广东,潮安,,,
+385,Related,刘孝钦,C00748,刘孝钦,liu xiao qin,,,中国,,,广东,潮安,,,
+386,Related,阿武峇卡
+387,Related,陈振贤,C00090,陈振贤,chen zhen xian,1893,1964,,,,广东,潮安,,,
+388,Related,林德义
+389,Related,黄阿舍
+390,Related,阿尔伯特王子
+391,Related,乔治王子
+392,Related,朱惠琳
+393,Related,陈先进,C00086,陈先进,chen xian jing,,,,,,福建,,,,
+394,Related,邱国瓦,C00172,邱国瓦,qiu guo wa,1872,1932,,,,福建,海澄,,,
+395,Related,郑螺生,C00221,郑螺生,zheng luo sheng,1863,1938,,,,福建,同安,,,
+396,Related,林金殿,C00150,林金殿,lin jin dian,1897,1944,,,,福建,同安,,,
+397,Related,胡先愿,C00479,胡先愿,hu xian yuan,1874,1943,中国,,,福建,同安,,,
+398,Related,黄庆昌,C00120,黄庆昌,huang qing chang,1890,1978,马来西亚 ,砂拉越,古晋,福建,金门,,,
+399,Related,黄卓善,C02800,黄卓善,huang zhuo shan ,,,,,,福建,金门,,,
+400,Related,王丙丁,C00868,王丙丁,wang bing ding ,1892,1957,,,,福建,金门,,,
+401,Related,林斐
+402,Related,陈祯祥,C03949,陈祯祥,chen zhen xiang ,,,马来西亚,雪兰莪,叻沙埠,福建,安溪,,,
+403,Related,康乐公爵
+404,Related,戴板鹗,C00393,戴板鹗,dai ban e,,,,,,福建,漳浦,,,
+405,Related,蔡南,C00249,蔡南,cai nan,,,,,,福建,南安,,,
+406,Related,陈金殿
+407,Related,洪金捷
+408,Related,佘怀德
+409,Related,佘德秀
+410,Related,温振周
+411,Related,林顶合
+412,Related,戴山交
+413,Related,戴文通
+414,Related,陈允洛,C00375,陈允洛,chen yun luuo,1889,1981,,,,福建,晋江,,,
+415,Related,李厚基
+416,Related,吴氏
+417,Related,傅紫曦
+418,Related,傅紫祯
+419,Related,傅紫礼
+420,Related,刘韵仙,C00754,刘韵仙,liu yun xian,1901,1975,,,,,,,,
+421,Related,傅超人
+422,Related,傅超贤
+423,Related,傅继慈
+424,Related,巴素
+425,Related,米勒
+426,Related,郭可培,C00432,郭可培,guo ke pei,1901,1979,,,,福建,福清,,,
+427,Related,郭玉英
+428,Related,郭成瑞
+429,Related,黄重吉,C02422,黄重吉,huang zhong ji ,,,,,,永春,卿园,,,
+430,Related,许生理,C01261,许生理,xu sheng li ,1886,1967,,,,福建,惠安,,,
+431,Related,洪基源
+432,Related,萧长水
+433,Related,萧清南
+434,Related,萧清发
+435,Related,陈笃
+436,Related,洪福寿
+437,Related,王嘉禄,C00181,王嘉禄,wang jia lu,——,,中国,,,福建,南安,,,
+438,Related,李亮琪
+439,Related,庄惠泉,C01188,庄惠泉,zhuang hui quan,1899,1974,,,,福建,安溪,,,
+440,Related,李金泉
+441,Related,叶瑞人
+442,Related,王吉士,C03335,王吉士,wang ji shi ,,,,,,福建,同安,,,
+443,Related,英倚泉
+444,Related,胡子钦
+445,Related,郑氏（姐）
+446,Related,郑氏（妹）
+447,Related,杜苏
+448,Related,张凤英
+449,Related,胡清才,C00475,胡清才,hu qing cai,1924,1972,缅甸,仰光,,福建,永定,,,
+450,Related,胡清湖
+451,Related,李志城
+452,Related,胡清新
+453,Related,李益森
+454,Related,胡清德
+455,Related,汤湘霖,C00862,汤湘霖,tang xiang lin,,,,,,广东,梅县,,,
+456,Related,林霭民,C00141,林霭民,lin ai min,? ,1964,,,,福建,永定,,,
+457,Related,转道,C01183,转道,zhuan dao,1872,1943,中国,,,福建,南安,,,
+458,Related,郑雨生
+459,Related,胡好,C00471,胡好,hu hao,1919,1951,缅甸,仰光,,福建,永定,,,
+460,Related,胡资周,C00488,胡资周,hu zi zhou,1904,1962,,,,福建,永定,,,
+461,Related,胡蛟,C00473,胡蛟,hu jiao,1914,1984,仰光,,,福建,永定,,,
+462,Related,邱立南,C00797,邱立南,qiu li nan,,,,,,广东,南顺,,,
+463,Related,胡亚业,C00482,胡亚业,hu ya ye,1838,1887,,,,广东,广州,,,
+464,Related,维多利亚女皇
+465,Related,胡颖德,C00483,胡颖德,hu ying de,1869,1953,,,,广东,广州,,,
+466,Related,黄永祺,C00545,黄永祺,huang yong qi,1880,1960,中国,,,福建,惠安,,,
+467,Related,黄桂岩
+468,Related,黄桂丁
+469,Related,黄桂馥,C00498,黄桂馥,huang gui fu,1927,1975,,,,福建,惠安,,,
+470,Related,徐悲鸿
+471,Related,许雪湫,C01000,许雪湫,xu xue qiu,? ,1911,,,,广东,海阳,,,
+472,Related,黄端琼
+473,Related,黄淑琼
+474,Related,蔚利高
+475,Related,萧保魂
+476,Related,陈祀恩,C00343,陈祀恩,chen si en,1886,1948,马来西亚 ,吉隆坡,,,,,,
+477,Related,黄金钻,C00118,黄金钻,huang jin zhuan,,,,,,,,,,
+478,Related,赫利特
+479,Related,黄海筹,C00117,黄海筹,huang hai chou,,,,,,广东,台山,,,
+480,Related,黄树昆
+481,Related,黄寿炽
+482,Related,黄美瑶
+483,Related,梁敏修,C00579,梁敏修,laing min xiu,? ,1916,,,,广东,广州,,,
+484,Related,黄兆贤,C00551,黄兆贤,huang zhao xian,? ,1973,,,,广东,台山,,,
+485,Related,黄兆珪,C00549,黄兆珪,huang zhao gui,1888,1980,新加坡,,,广东,台山,,,
+486,Related,黄兆琨,C00550,黄兆琨,huang zhao kun,1883,1946,,,,广东,台山,,,
+487,Related,黄兆南
+488,Related,黄兆镇,C00552,黄兆镇,huang zhao zhen,1887, ?,,,,广东,台山,,,
+489,Related,陈宗祺,C00388,陈宗祺,chen zong qi,,,,,,,,,,
+490,Related,黄奕根,C00123,黄奕根,huang yi gen ,? ,1957,,,,广东,大埔,,,
+491,Related,李登辉,C01772,李登辉,li deng hui ,,,,,,,,,,
+492,Related,袁世凯
+493,Related,王景成,C01463,王景成,wang jing cheng ,1898,1963,,,,福建,同安,,,
+494,Related,黄勖吾,C00536,黄勖吾,huang xu wu,1906,1980,,,,广东,澄海,,,
+495,Related,李进坤
+496,Related,李进汤
+497,Related,李维娘
+498,Related,李金耀
+499,Related,李天耀
+500,Related,李祥耀
+501,Related,李金满
+502,Related,李显龙
+503,Related,庄笃明,C01186,庄笃明,zhuang du ming,1891,1947,,,,福建,晋江,,,
+504,Related,李庆禧,C00610,李庆禧,li qing xi,1870,?,,,,,,,,
+505,Related,陈长佑,C00268,陈长佑,chen chang you,,,,,,,,,,
+506,Related,胡维德
+507,Related,载泽
+508,Related,尚志恒
+509,Related,庄士敦
+510,Related,林维芳,C00159,林维芳,lin wei fang,1863,1910,中国,,,广东,新宁,,,
+511,Related,李宝娘
+512,Related,李邦赐
+513,Related,蔡永远
+514,Related,许行云,C00999,许行云,xu xing yun,1823,1880,马来西亚,马六甲,,福建,,,,
+515,Related,苏芳泉,C00846,苏芳泉,su fang quan,,,,,,,,,,
+516,Related,陈敬元
+517,Related,许山泉
+518,Related,许山林
+519,Related,许山河
+520,Related,李桂林
+521,Related,李石农
+522,Related,李深端
+523,Related,李深学
+524,Related,谢孝义
+525,Related,李清岩
+526,Related,光绪皇帝
+527,Related,史密斯
+528,Related,李玉波,C00631,李玉波,li yu bo,1886,1958,,,,,,,,
+529,Related,李合平,C00599,李合平,li he ping,1888,1963,,,,广东,澄海,,,
+530,Related,陈长乐,C00267,陈长乐,chen chang le,1886,1961,新加坡,,,广东,台山,,,
+531,Related,李铁民,C00622,李铁民,li tie min,?,1956,,,,福建,永春,,,
+532,Related,颜长春,C01394,颜长春,yan zhang chun ,,,,,,福建,海澄,,,
+533,Related,江建霞
+534,Related,李淑娘
+535,Related,爱德华七世
+536,Related,泰戈尔
+537,Related,尼赫鲁
+538,Related,甘地
+539,Related,林建达,C00678,林建达,lin jian da,1901,1981,,,,福建,南安,,,
+540,Related,威廉•启信
+541,Related,乔治六世
+542,Related,伊丽莎白二世
+543,Related,蔡子庸,C00260,蔡子庸,cai zi yong,1847, ?,,,,福建,海澄,,,
+544,Related,陈云秋,C00376,陈云秋,chen yun qiu,,,,,,广东,潮安,,,
+545,Related,林树森,C00157,林树森,lin shu sen,1887,1947,,,,广东,潮安,,,
+546,Related,李乾盛
+547,Related,黄松亭,C00522,黄松亭,huang song ting,,,,,,广东,澄海,,,
+548,Related,乔治五世
+549,Related,黄庆祥
+550,Focused,陈锡九
+551,Related,林和坂,C00147,林和坂,lin he ban,1841,1913,,,,福建,龙溪,,,
+552,Focused,黄敏,C00034,黄敏,huang min,1823,1868,中国,,,,,,,
+553,Related,林金泽
+554,Related,林绍裘,C00695,林绍裘,lin shao qiu,1894, ?,新加坡,,,福建,龙溪,,,
+555,Related,林汉,C00668,林汉,lin han,1929,1988,,,,福建,厦门,,,
+556,Focused,林路
+557,Related,林竹轩,C00720,林竹轩,lin zhu xuan,1901,1954,,,,福建,南安,,,
+558,Related,李德立
+559,Related,佘正裕,C00828,佘正裕,she zheng yu,1879,?,,,,,,,,
+560,Related,谢庆振,C00962,谢庆振,xie qing zhen,1865,1919,,,,,,,,
+561,Related,佘柏城,C00815,佘柏城,she bo cheng,? ,1939,,,,广东,澄海,,,
+562,Related,肃亲王
+563,Related,林可能,C00680,林可能,lin ke neng,1901,1942,新加坡 ,,,福建,海澄,,,
+564,Related,林国安
+565,Related,林癸荣,C00681,林癸荣,lin kui rong ,1858,?,,,,福建,厦门,,,
+566,Related,林萃龙,C00662,林萃龙,lin cui long,,,,,,,,,,
+567,Related,林月卿
+568,Related,林炳汉
+569,Related,林贤娘
+570,Related,林三古,C00694,林三古,lin san gu,,,,,,,,,,
+571,Related,朱月娘
+572,Related,尤索夫•依萨
+573,Related,刘正兴,C00755,刘正兴,liu zheng xing,1871,1941,,,,广东,潮安,,,
+574,Related,阮碧霞,C00810,阮碧霞,ruan bi xia,1884,1942,,,,福建,龙溪,,,
+575,Related,陈秋槎,C00329,陈秋槎,chen qiu cha,1892,1942,,,,广东,澄海,,,
+576,Related,林炳源,C00655,林炳源,lin bing yuan,? ,1887,,,,广东,澄海,,,
+577,Related,张春莲
+578,Related,张来喜,C00213,张来喜,zhang lai xi,,,中国,,,广东,澄海,,,
+579,Related,胡汉民
+580,Related,汪精卫
+581,Related,李烈钧
+582,Related,林忠民
+583,Related,林忠宪
+584,Related,阮氏
+585,Related,林积玉
+586,Related,林琼玉
+587,Related,林素玉
+588,Related,林美玉
+589,Related,林绿玉
+590,Related,林雪玉
+591,Related,林英权
+592,Related,林英士
+593,Related,林雨岩,C00712,林雨岩,lin yu yan,1880,1972,,,,广东,潮阳,,,
+594,Related,萧贤舞
+595,Related,蓝梦全,C00584,蓝梦全,lan meng quan,,,,,,广东,大埔,,,
+596,Related,梭罗副王
+597,Related,王义元,C00897,王义元,wang yi yuan,?,1959,,,,广东,乐会,,,
+598,Related,方琴媛
+599,Related,欧阳壎
+600,Related,宏船,C00452,宏船,hong chuan,1907,1990,中国,福建,晋江,福建,晋江,,,
+601,Related,吴良标,C00923,吴良标,wu liang biao,1885,1957,,,,福建,厦门,,,
+602,Related,刘毓霖,C00752,刘毓霖,liu yu lin,,,,,,,,,,
+603,Related,邱国珍
+604,Related,邱正潮,C00805,邱正潮,qiu zheng chao,? ,1896,,,,福建,海澄,,,
+605,Related,邱得松,C00793,邱得松,qiu de song,,,,,,福建,海澄,,,
+606,Related,谢龙门,C00194,谢龙门,xie long men,,,新加坡,,,福建,龙溪,,,
+607,Related,瑞于,C00814,瑞于,rui yu,约1867,1953,,,,福建,晋江,,,
+608,Related,刘瑜,C00751,刘瑜,liu yu ,1922,1986,,,,湖南,长沙,,,
+609,Related,李声余,C00620,李声余,li sheng yu,,,,,,广东,番愚,,,
+610,Related,陈德才,C00275,陈德才,chen de cai,,,,,,福建,海澄,,,
+611,Related,邵逸夫
+612,Related,刘长意,C00728,刘长意,liu chang yi,1848,1915,新加坡,,,广东,潮安,,,
+613,Related,佘应仁,C00824,佘应仁,she ying ren,1885,1968,新加坡,,,广东,澄海,,,
+614,Related,佘应佐,C00825,佘应佐,she ying zuo,1884,1949,,,,广东,澄海,,,
+615,Related,佘应恭,C00823,佘应恭,she ying gong,1873, ?,新加坡,,,广东,澄海,,,
+616,Related,威廉•巴特卫
+617,Related,曾亚六,C01088,曾亚六,zeng ya liu,1813,1873,,,,广东,潮州,,,
+618,Related,杨春娘
+619,Related,宋长溪,C00840,宋长溪,song chang xi,1835,1913,,,,福建,南靖,,,
+620,Related,宋顺源
+621,Related,宋荣宗
+622,Related,理雅各
+623,Related,基斯柏理
+624,Related,陈光为,C00284,陈光为,chen guang wei,1842,1888,新加坡,,,新加坡,,,,
+625,Related,陈文进,C00351,陈文进,chen wen jin,1857,1933,马来西亚 ,马六甲,,马六甲,,,,
+626,Related,符愈贵,C00413,符愈贵,fu yu gui,1843,1906,,,,海南,,,,
+627,Related,冯芳莲
+628,Related,陈文芳
+629,Related,陈文元,C00353,陈文元,chen wen yuan,,,,,,,,,,
+630,Related,宋旺武
+631,Related,爱谨
+632,Related,许春风
+633,Related,马绍尔
+634,Related,许春裕
+635,Related,张舜琴
+636,Related,杨喜娘,C01047,杨喜娘,yang xi niang,1885, 约1947,新加坡 ,,,福建,金门,,,
+637,Related,麦比士
+638,Related,龚振荣,C00426,龚振荣,gong zhen rong,,,,,,福建,漳州,,,
+639,Related,阮添筹
+640,Related,林成乾,C00661,林成乾,lin cheng qian,,,,,,,,,,
+641,Related,邱武艺
+642,Related,李庆纪
+643,Related,何乐如,C00444,何乐如,he le ru,1866,1947,中国,广州,,广东,潮阳,,,
+644,Related,陈树南
+645,Related,郑聘廷,C00222,郑聘廷,zheng pin yan,1872,1944,,,,福建,惠安,,,
+646,Related,刘坤意,C00735,刘坤意,liu kun yi,1862,1926,,,,广东,潮安,,,
+647,Related,薛中华,C00049,薛中华,xue zhong hua,1886,1940,,,,福建,东山,,,
+648,Related,陈庆云,C00326,陈庆云,chen qing yun,? ,1877,新加坡,,,,,,,
+649,Related,谢林娘
+650,Related,谢佛德
+651,Related,王竞惠,C00881,王竞惠,wang jing hui,1910,1980,新加坡,,,福建,同安,,,
+652,Related,王庆云
+653,Related,王沧周,C00870,王沧周,wang cang zhou,?,1888,,,,福建,同安,,,
+654,Related,陈桂兰
+655,Related,邱百禄
+656,Related,邱培丕顺
+657,Related,王先树,C00894,王先树,wang xian shu,1881,1973,,,,广东,琼海,,,
+658,Related,王先德
+659,Related,王长顺,C00180,王长顺,wang chang shun,1855,?,新加坡,,,福建,同安,,,
+660,Related,王顺智
+661,Related,王坤殿
+662,Related,林英茂
+663,Related,王绍善
+664,Related,王绍贤
+665,Related,伍玉玲
+666,Related,王会仪,C00878,王会仪,wang hui yi,——,,,,,福建,,,,
+667,Related,吴士基,C00192,吴士基,wu shi ji,? ,1928,,,,福建,诏安,,,
+668,Related,慈禧太后
+669,Related,曾兆南,C01090,曾兆南,zeng zhao nan,,,,,,广东,潮州,,,
+670,Related,徐敦青,C00983,徐敦青,xu guo qing,,,,,,,,,,
+671,Related,朱善锦
+672,Related,蔡心义,C00254,蔡心义,cai xin yi,,,,,,,,,,
+673,Related,萧守福
+674,Related,萧才发
+675,Related,萧守仁
+676,Related,萧月清
+677,Related,陈恩裕
+678,Related,萧月明
+679,Related,林坤德
+680,Related,萧友仁,C00020,萧友仁,xiao you ren ,1920,1993,新加坡,,, ,,,,
+681,Related,萧月卿
+682,Related,谢宝荣,C00951,谢宝荣,xie bao rong,,,,,,福建,,,,
+683,Related,薛兆熊
+684,Related,郭枚生,C00433,郭枚生,guo mei sheng,,,,,,福建,惠安,,,
+685,Related,许济侯,C00199,许济侯,xu ji hou,? ,1951,,,,福建,惠安,,,
+686,Related,苏妈英
+687,Related,何衍品
+688,Related,许吉成
+689,Related,谢荔圃,C00193,谢荔圃,xie li pu,1895,1950,,,,福建,惠安,,,
+690,Related,谢启山,C00195,谢启山,xie qi shan,1895,1970,,,,福建,惠安,,,
+691,Related,郑荣华,C01146,郑荣华,zheng rong hua,,,,,,福建,,,,
+692,Related,徐钦三,C00989,徐钦三,xu qin san,,,,,,福建,,,,
+693,Related,徐炎泉,C01001,徐炎泉,xu yan quan,? ,1862,,,,福建,漳州,,,
+694,Related,刘景香
+695,Related,姚楠
+696,Related,胡博渊,C00485,胡博渊,hu yuan bo,1888,1975,,,,江苏,武进,,,
+697,Related,王彩凤,C00869,王彩凤,wang cai feng,——,,,,,福建,龙溪,,,
+698,Related,薛和娘
+699,Related,陈荫娘
+700,Related,薛瑞娘
+701,Related,翁如水,C00907,翁如水,weng ru shui,,,,,,福建,海澄,,,
+702,Related,薛有文,C01017,薛有文,xue you wen,1859,1909,,,,福建,东山,,,
+703,Related,薛中衍
+704,Related,薛明记
+705,Related,薛佛世
+706,Related,薛荣茂
+707,Related,薛神庇
+708,Related,薛坤元
+709,Related,薛德元
+710,Related,陈水源
+711,Related,陈太源
+712,Related,陈淡娘
+713,Related,陈曲娘
+714,Related,黄宗成
+715,Related,曾德璋
+716,Related,薛长泉
+717,Related,薛天林
+718,Related,陈水鲤,C00339,陈水鲤,chen shui li,1900,1945,新加坡,,,福建,同安,,,
+719,Related,何衍炳,C00447,何衍炳,he yan bing,1859, ?,新加坡,,,福建,,,,
+720,Related,林春木,C00144,林春木,lin chun mu,1848, ?,,,,福建,东山,,,
+721,Related,洪高兴,C00108,洪高兴,hong gao xing,约1894,?,中国,,,福建,厦门,,,
+722,Related,颜长贵,C00203,颜长贵,yan chang gui,,,,,,福建,海澄,,,
+723,Related,黄典娴,C03066,黄典娴,huang dian xian ,,,,,,广东,台山,,,
+724,Related,黄思,C00521,黄思,huang si,1911,1982,,,,广东,大埔,,,
+725,Related,叶世眉
+726,Related,曾莲英
+727,Related,宋庆龄
+728,Related,宋美龄
+729,Related,孙士鼎
+730,Related,梅春辅,C00777,梅春辅,mei chun fu,,,,,,广东,,,,
+731,Related,余刚
+732,Related,杜惹舌
+733,Related,马丁•戴斯
+734,Related,普特法肯•莱茵纳
+735,Related,曾如玉,C01083,曾如玉,zeng ru yu,,,新加坡,,,新加坡,,,,
+736,Related,刘传乐,C00729,刘传乐,liu chuan yue,? , 约1893,,,,,,,,
+737,Related,章招莲,C01131,章招莲,zhang zhao lian,,,,,,福建,海澄,,,
+738,Related,章壬全,C01117,章壬全,zhang ren quan,1878,1940,,,,福建,海澄,,,
+739,Related,钟志海,C01167,钟志海,zhong zhi hai,1893,1945,,,,,,,,
+740,Related,章芳源,C01099,章芳源,zhang fang yuan,,,,,,福建,海澄,,,
+741,Related,章壬宪,C01118,章壬宪,zhang ren xian,? ,1901,,,,福建,海澄,,,
+742,Related,章绸梅
+743,Related,张世笈,C01122,张世笈,zhang shi ji,1893,1944,,,,广东,大埔,,,
+744,Related,黄小品,C00534,黄小品,huang xiao pin,1902,1965,,,,广东,大埔,,,
+745,Related,陈育民
+746,Related,吴岳朋
+747,Related,邓文光,C00396,邓文光,deng wen guang,1880,1956, ,,,广东,大埔,,,
+748,Related,彭亨
+749,Related,李略俊,C00135,李略俊,li lue jun,,,,,,广东,澄海,,,
+750,Related,张峇丹
+751,Related,陈宝娘
+752,Related,张志贤
+753,Related,何思观,C03061,何思观,he si guan ,,,,,,广东,开平,,,
+754,Related,梁允祺,C00140,梁允祺,liang yun qi,,,,,,广东,顺德,,,
+755,Related,雷亮荣,C02110,雷亮荣,lei liang rong ,,,,,,闽南,安坑,,,
+756,Related,庄才勋
+757,Related,邱宗成
+758,Related,杨福和,C01028,杨福和,yang fu he,,,新加坡,,,福建,,,,
+759,Related,陈允吉,C00374,陈允吉,chen yun ji,? ,1884,新加坡,,,新加坡,,,,
+760,Related,林明伦,C00687,林明伦,lin ming lun,1915,1977,中国,,,广东,文昌,,,
+761,Related,永清,C01065,永清,yong qing,——,,,,,——,,,,
+762,Related,曾纪泽
+763,Related,薛福成
+764,Related,刘清玉,C00743,刘清玉,liu qing yu,,,,,,,,,,
+765,Related,刘清坤,C00741,刘清坤,liu qing kun,,,,,,,,,,
+766,Related,何衍茂,C00448,何衍茂,he yan mao,,,,,,福建,,,,
+767,Related,余坤火
+768,Related,吴庆腾,C00927,吴庆腾,wu qing teng,1837,1914,,,,广东,潮安,,,
+769,Related,刘荣丰
+770,Related,王柘榴
+771,Related,陈亚两
+772,Related,陈若愚
+773,Related,周润享,C01172,周润享,zhou run xiang,? ,1916,,,,福建,海澄,,,
+774,Related,甘清泗,C00416,甘清泗,gan qing si,?,1923,,,,福建,海澄,,,
+775,Related,黄志信
+776,Related,林坤扬,C00683,林坤扬,lin kun yang,1860,1933,,,,,,,,
+777,Related,余玉英
+778,Related,陈国朝,C00285,陈国朝,chen guo chao,,,,,,,,,,
+779,Related,丁宏海
+780,Related,王水斗,C00187,王水斗,wang shui dou,——,,,,,福建,东山,,,
+781,Related,陈芳岁,C01237,陈芳岁,chen fang sui ,,,,,,福建,金门县湖,,,
+782,Related,梅端成
+783,Related,黄良檀
