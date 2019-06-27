@@ -37586,7 +37586,7 @@
    <person xml:id="s000780">
       <idno type="legacy1"/>
       <idno type="VIAF">Nil</idno>
-      <persName type="zh-hans">王水斗</persName>
+      <persName xml:lang="zh-Hans">王水斗</persName>
       <persName type="standardEn">Ong Chwee Tow</persName>
       <persName subtype="pinyin" type="altName">Wang Shuidou</persName>
       <birth>
@@ -37758,53 +37758,6 @@
       <trait source="??">
          <label>Ancestral Home 祖籍地</label>
          <desc>福建省金门/Jinmen, Fujian Province</desc>
-      </trait>
-      <trait source="??">
-         <label>Faith 信仰</label>
-         <desc/>
-      </trait>
-      <note/>
-      <listBibl type="worksBy">
-         <bibl/>
-      </listBibl>
-      <listBibl type="sourcesOn">
-         <bibl/>
-      </listBibl>
-      <listBibl type="imagesOf">
-         <bibl>
-            <ptr/>
-         </bibl>
-      </listBibl>
-   </person>
-   <person xml:id="sNaN">
-      <idno type="legacy1"/>
-      <idno type="VIAF"/>
-      <persName xml:lang="zh-Hans"/>
-      <persName type="standardEn"/>
-      <persName subtype="pinyin" type="altName"/>
-      <birth>
-         <date/>
-         <placeName xml:lang="zh"/>
-         <placeName xml:lang="en"/>
-         <ref/>
-      </birth>
-      <death>
-         <date/>
-         <ref/>
-      </death>
-      <floruit>
-         <date/>
-         <placeName/>
-         <ref/>
-      </floruit>
-      <sex>1</sex>
-      <trait source="??">
-         <label>Dialect Group 方言群</label>
-         <desc/>
-      </trait>
-      <trait source="??">
-         <label>Ancestral Home 祖籍地</label>
-         <desc/>
       </trait>
       <trait source="??">
          <label>Faith 信仰</label>
